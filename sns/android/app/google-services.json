@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "129797880948",
+    "project_id": "instaclone-b8594",
+    "storage_bucket": "instaclone-b8594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129797880948:android:da4bb6218526cb470a2521",
+        "android_client_info": {
+          "package_name": "jp.motucraft.sns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129797880948-vts5mbf6ptbavs5qq0c2466c6ss4ti3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbs-RtrErj60wwcUWgS9ebzvSZfOejpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129797880948-vts5mbf6ptbavs5qq0c2466c6ss4ti3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129797880948-lp4sgp68lopj3kcj8mkh0hql369shjdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.motucraft.instaClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
